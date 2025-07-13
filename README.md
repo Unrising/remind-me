@@ -1,4 +1,20 @@
-# TodoApp
+# Description
+
+This project is built with **Angular version 17** using **Node.js version 20.x**.
+
+The goal is to create a productivity application where users can:
+- Add future tasks
+- View a timeline of their tasks
+- Use a calendar view
+- Track time estimates for task completion
+
+> This is the **first version** and does **not include a backend**.
+
+---
+
+# Generated with Angular
+
+## TodoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
 
