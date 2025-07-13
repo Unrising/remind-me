@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.navbar a {
+    color: var(--primary);
+    font-size: 20px;
+    display: inline-block;
+    transition: transform .2s ease;
+}
+
+.navbar a:hover {
+    color: var(--secondary); 
+    transform: scale(1.1);
+}

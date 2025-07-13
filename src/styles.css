@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+    --primary: #F0E6EF;
+    --secondary: #E1F2FE;
+    --background: #2E2D4D;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #2E2D4D;
+}
