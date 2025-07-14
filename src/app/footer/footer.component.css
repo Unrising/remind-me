@@ -1,0 +1,18 @@
+.footer {
+  background-color: #2e2d4d;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 14px;
+  border-radius: 10px;
+
+  /* Fixed position */
+  position: fixed;
+  bottom: 10px; /* Slight spacing from bottom */
+  left: 50%;
+  transform: translateX(-50%); /* Center horizontally */
+
+  /* Width and box styling */
+  width: fit-content;
+  max-width: 90%;
+}
